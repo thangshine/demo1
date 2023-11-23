@@ -1,0 +1,47 @@
+/* Reset CSS */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#main{
+
+}
+
+#header{
+    height: 45px;
+    background-color: rgb(199, 197, 197);  
+}
+
+#nav{
+
+}
+
+#nav li{
+    display:inline-block;
+}
+
+#nav li a{
+    line-height: 50px;
+    padding: 0 150px;
+    display: inline-block;
+}
+
+#slider{
+
+}
+
+#content{
+
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+
